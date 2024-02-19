@@ -12,3 +12,4 @@ C:\Users\Андрей\Desktop\GitAndy\c#\practic\seminar3\Tasks\Task1\obj\Debug\
 C:\Users\Андрей\Desktop\GitAndy\c#\practic\seminar3\Tasks\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\Андрей\Desktop\GitAndy\c#\practic\seminar3\Tasks\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\Андрей\Desktop\GitAndy\c#\practic\seminar3\Tasks\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\Андрей\Desktop\GitAndy\c#\practic\seminar3\Tasks\Task1\obj\Debug\net8.0\Task1.sourcelink.json
